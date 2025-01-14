@@ -1,9 +1,10 @@
 #folder
 node_modules
-
+dist/*
 
 #file
 package-lock.json
 
 #lock files
 *lock.json
+*.css.map
