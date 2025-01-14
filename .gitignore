@@ -4,7 +4,6 @@ dist
 
 #file
 package-lock.json
-package.json
 
 #lock files
 *lock.json
