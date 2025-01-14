@@ -1,6 +1,6 @@
 #folder
 node_modules
-dist
+dist/*
 
 #file
 package-lock.json
