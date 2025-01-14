@@ -1,0 +1,10 @@
+#folder
+node_modules
+dist
+
+#file
+package-lock.json
+package.json
+
+#lock files
+*lock.json
